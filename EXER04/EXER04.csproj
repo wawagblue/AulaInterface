@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IPagamento.cs" />
+    <Compile Include="PagamentoBoleto.cs" />
+    <Compile Include="PagamentoCartao.cs" />
+    <Compile Include="PagamentoPayPal.cs" />
+    <Compile Include="PagamentoPix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
