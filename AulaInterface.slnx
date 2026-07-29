@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="AulaInterface/AulaInterface.csproj" />
+  <Project Path="EXER03/EXER03.csproj" />
+  <Project Path="EXER04/EXER04.csproj" />
   <Project Path="EXER2/EXER2.csproj" />
 </Solution>
